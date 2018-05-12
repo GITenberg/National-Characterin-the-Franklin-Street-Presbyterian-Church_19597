@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8772
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Clark_Burt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19597#National-Characterin-the-Franklin-Street-Presbyterian-Church
 gutenberg_issued: '2006-10-21'
 gutenberg_type: Text
 identifiers:
