@@ -1,0 +1,32 @@
+_repo: National-Characterin-the-Franklin-Street-Presbyterian-Church_19597
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burt, Nathaniel Clark
+    birthdate: 1825
+    deathdate: 1874
+    gutenberg_agent_id: '8772'
+    url: http://www.gutenberg.org/2009/agents/8772
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Clark_Burt
+description: ''
+gutenberg_issued: '2006-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thanksgiving Day sermons'
+- !lcsh 'Nationalism'
+- !lcc 'BV'
+title: 'National Character
+
+  A Thanksgiving Discourse Delivered November 15th, 1855,
+
+  in the Franklin Street Presbyterian Church'
+url: http://www.gutenberg.org/ebooks/19597
